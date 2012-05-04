@@ -1,0 +1,11 @@
+---
+title: "山西游"
+author:
+category: 生活－la vie
+tags: 
+layout: post
+---
+能发照片了不？
+
+<img id="image1184" src="http://www.rijiben.org/wp-content/blogs/6/uploads//pingyaomeinv.thumbnail.JPG" alt="pingyaomeinv.JPG" />
+
