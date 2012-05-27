@@ -1,0 +1,7 @@
+---
+layout: post
+title: 最后一条是自己
+---
+
+<p>今天有<a href="http://www.francaisblog.com.cn/node/432">四条消息</a>，但是其实是三条，因为最后一条是关于自己的。<br />
+要是有人能听懂最后一条，估计导演要撤我的职了。</p>

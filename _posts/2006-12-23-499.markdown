@@ -1,9 +1,0 @@
----
-title: "伊朗核试验"
-author:
-category: 实事
-tags: 
-layout: post
----
-我也来说说<a href="http://www.francaisblog.com.cn/node/441">伊朗核试验</a>？
-

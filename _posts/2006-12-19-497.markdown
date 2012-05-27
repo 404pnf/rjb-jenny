@@ -1,9 +1,0 @@
----
-title: "我的私生活"
-author:
-category: 实事
-tags: 
-layout: post
----
-实在不知道说啥好了，说<a href="http://www.francaisblog.com.cn/node/426">私生活</a>吧。
-

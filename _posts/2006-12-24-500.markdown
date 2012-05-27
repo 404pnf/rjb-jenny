@@ -1,9 +1,0 @@
----
-title: "核试验"
-author:
-category: 实事
-tags: 
-layout: post
----
-进行核试验是<a href="http://www.francaisblog.com.cn/node/443">没有好结果</a>的。
-

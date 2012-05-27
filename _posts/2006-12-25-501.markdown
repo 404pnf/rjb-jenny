@@ -1,9 +1,0 @@
----
-title: "青岛高官被罢免"
-author:
-category: 实事
-tags: 
-layout: post
----
-<a href="http://www.francaisblog.com.cn/node/446">青岛高官被罢免</a>了，唉。
-

@@ -1,0 +1,7 @@
+---
+layout: post
+title: 我的私生活
+---
+
+<p>实在不知道说啥好了，说<a href="http://www.francaisblog.com.cn/node/426">私生活</a>吧。
+</p>

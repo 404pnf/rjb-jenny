@@ -1,9 +1,0 @@
----
-title: "le point"
-author:
-category: 实事
-tags: 
-layout: post
----
-今天晚了一点，而且懒了一点，直接去<a href="http://www.francaisblog.com.cn/node/400">这里</a>连看带听吧。
-

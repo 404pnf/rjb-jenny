@@ -1,9 +1,0 @@
----
-title: "头条"
-author:
-category: 实事
-tags: 
-layout: post
----
-今天说得是<a href="http://www.francaisblog.com.cn/node/567">大头条</a>，各大报纸都是头条——美国弗吉尼亚州理工大学发生恶性枪击事件，32人死亡，枪手本人开枪自尽。
-

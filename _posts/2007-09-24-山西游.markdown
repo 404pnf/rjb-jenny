@@ -1,0 +1,8 @@
+---
+layout: post
+title: 山西游
+---
+
+<p>能发照片了不？<br />
+<img id="image1184" src="http://www.rijiben.org/wp-content/blogs/6/uploads//pingyaomeinv.thumbnail.JPG" alt="pingyaomeinv.JPG" />
+</p>
