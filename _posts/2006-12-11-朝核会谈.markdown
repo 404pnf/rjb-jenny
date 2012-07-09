@@ -3,6 +3,6 @@ layout: post
 title: 朝核会谈
 ---
 
-<p>今天说朝核会谈，国际政治老师最喜欢的题目。<br />
-<a href="http://www.francaisblog.com.cn/node/405">这里</a>。
-</p>
+今天说朝核会谈，国际政治老师最喜欢的题目。
+
+[这里](http://www.francaisblog.com.cn/node/405)。

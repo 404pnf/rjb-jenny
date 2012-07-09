@@ -3,5 +3,8 @@ layout: post
 title: 伊拉克
 ---
 
-<p>经过我的争取，不公平待遇总算被平反了，可喜可贺啊。<br />
-今天的新闻还是关注一下伊拉克吧，<a href="http://www.francaisblog.com.cn/node/481">这里听</a>。</p>
+经过我的争取，不公平待遇总算被平反了，可喜可贺啊。
+
+今天的新闻还是关注一下伊拉克吧，
+
+[这里听](http://www.francaisblog.com.cn/node/481)。

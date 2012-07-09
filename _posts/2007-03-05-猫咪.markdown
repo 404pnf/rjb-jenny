@@ -3,6 +3,4 @@ layout: post
 title: 猫咪
 ---
 
-<p><a href="http://pengyou.rijiben.org/node/1260">朋友</a>那里看到的，觉得很有意思，贴上来玩玩。</p>
-<p><script src="http://gmodules.com/ig/ifr?url=http://lsmith2004.googlepages.com/Maukie.xml&amp;synd=open&amp;w=330&amp;h=400&amp;title=Maukie&amp;border=%23ffffff%7C0px%2C1px+solid+%23ffdd00%7C0px%2C2px+solid+%23ffdd33%7C0px%2C2px+solid+%23ffee99&amp;output=js"></script>
-</p>
+[朋友](http://pengyou.rijiben.org/node/1260)那里看到的，觉得很有意思，贴上来玩玩。

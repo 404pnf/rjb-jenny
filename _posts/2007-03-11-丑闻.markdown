@@ -3,4 +3,4 @@ layout: post
 title: 丑闻
 ---
 
-<p><a href="http://www.francaisblog.com.cn/node/549">这里</a>来听，英国医院也暴丑闻，为什么老是在伊拉克和阿富汗的士兵倒霉呢？战争什么时候才可以结束啊</p>
+[这里](http://www.francaisblog.com.cn/node/549)来听，英国医院也暴丑闻，为什么老是在伊拉克和阿富汗的士兵倒霉呢？战争什么时候才可以结束啊

@@ -3,5 +3,6 @@ layout: post
 title: 核试验
 ---
 
-<p>进行核试验是<a href="http://www.francaisblog.com.cn/node/443">没有好结果</a>的。
-</p>
+进行核试验是
+
+[没有好结果](http://www.francaisblog.com.cn/node/443)的。

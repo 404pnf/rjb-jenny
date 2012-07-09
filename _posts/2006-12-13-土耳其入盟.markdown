@@ -3,5 +3,6 @@ layout: post
 title: 土耳其入盟
 ---
 
-<p>今天说土耳其入盟问题，难啊<br />
-<a href="http://www.francaisblog.com.cn/node/409">这里吧。</a></p>
+今天说土耳其入盟问题，难啊
+
+[这里吧。](http://www.francaisblog.com.cn/node/409)

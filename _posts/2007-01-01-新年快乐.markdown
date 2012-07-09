@@ -3,5 +3,6 @@ layout: post
 title: 新年快乐
 ---
 
-<p><a href="http://www.francaisblog.com.cn/node/462">2007年的第一天</a>，新年快乐！<br />
-<a href="http://www.2007china.org/">俄罗斯中国年官方网站</a>开幕</p>
+[2007年的第一天](http://www.francaisblog.com.cn/node/462)，新年快乐！
+
+[俄罗斯中国年官方网站](http://www.2007china.org/)开幕

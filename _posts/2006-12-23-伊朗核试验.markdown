@@ -3,4 +3,6 @@ layout: post
 title: 伊朗核试验
 ---
 
-<p>我也来说说<a href="http://www.francaisblog.com.cn/node/441">伊朗核试验</a>？</p>
+我也来说说
+
+[伊朗核试验](http://www.francaisblog.com.cn/node/441)？

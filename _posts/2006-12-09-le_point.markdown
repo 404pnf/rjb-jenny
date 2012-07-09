@@ -3,5 +3,6 @@ layout: post
 title: le point
 ---
 
-<p>今天晚了一点，而且懒了一点，直接去<a href="http://www.francaisblog.com.cn/node/400">这里</a>连看带听吧。
-</p>
+今天晚了一点，而且懒了一点，直接去
+
+[这里](http://www.francaisblog.com.cn/node/400)连看带听吧。

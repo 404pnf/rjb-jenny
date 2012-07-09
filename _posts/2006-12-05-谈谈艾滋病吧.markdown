@@ -3,7 +3,8 @@ layout: post
 title: 谈谈艾滋病吧
 ---
 
-<p>今天我们来谈谈艾滋病，有点沉重的话题。</p>
-<p><a href="http://www.francaisblog.com.cn/node/389">这里</a></p>
-<p><a href="http://www.courrierinternational.com/article.asp?obj_id=68656">参考文章在这里</a>
-</p>
+今天我们来谈谈艾滋病，有点沉重的话题。
+
+[这里](http://www.francaisblog.com.cn/node/389)
+
+[参考文章在这里](http://www.courrierinternational.com/article.asp?obj_id=68656)

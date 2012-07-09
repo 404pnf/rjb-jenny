@@ -3,5 +3,6 @@ layout: post
 title: 不一样的幸福
 ---
 
-<p>早该去睡觉了， 但是看到了<a href="http://www.55bbs.com/bbs/viewthread.php?tid=873683&#038;extra=page%3D3&#038;page=1">这个帖子</a>和他们幸福的故事。
-</p>
+早该去睡觉了， 但是看到了
+
+[这个帖子](http://www.55bbs.com/bbs/viewthread.php?tid=873683&extra=page%3D3&page=1)和他们幸福的故事。

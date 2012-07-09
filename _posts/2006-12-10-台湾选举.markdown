@@ -3,6 +3,6 @@ layout: post
 title: 台湾选举
 ---
 
-<p>台湾选举搞得轰轰烈烈，怎么法语的新闻这么难找？那我就随便说两句吧</p>
-<p><a href="http://www.francaisblog.com.cn/node/404">这里</a>。
-</p>
+台湾选举搞得轰轰烈烈，怎么法语的新闻这么难找？那我就随便说两句吧
+
+[这里](http://www.francaisblog.com.cn/node/404)。
